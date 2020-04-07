@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30b4b17d-a840-40cd-846e-048907d8b4f5" name="Default Changelist" comment="" />
+    <list default="true" id="30b4b17d-a840-40cd-846e-048907d8b4f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/IP_Proiect_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Server.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aD3xZbU2g4Hj66L4ITkfpfoU4V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +54,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Client" />
   </component>
   <component name="RunManager">
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -54,25 +83,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586256583542</updated>
+      <workItem from="1586258092158" duration="4468000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="845" height="230" key="GridCell.Tab.0.bottom" timestamp="1586257016920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="485" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1586260658233">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state x="485" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1586260658233" />
+    <state x="528" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586258659010">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="528" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1360.728@0.0.1360.728" timestamp="1586258659010" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1586258096877">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586258096877" />
+    <state width="634" height="179" key="GridCell.Tab.0.bottom" timestamp="1586263647406">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="634" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586263647406" />
     <state width="845" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586257016920" />
-    <state width="845" height="230" key="GridCell.Tab.0.center" timestamp="1586257016920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="634" height="179" key="GridCell.Tab.0.center" timestamp="1586263647405">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="634" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586263647405" />
     <state width="845" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586257016920" />
-    <state width="845" height="230" key="GridCell.Tab.0.left" timestamp="1586257016920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="634" height="179" key="GridCell.Tab.0.left" timestamp="1586263647405">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="634" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586263647405" />
     <state width="845" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586257016920" />
-    <state width="845" height="230" key="GridCell.Tab.0.right" timestamp="1586257016920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="634" height="179" key="GridCell.Tab.0.right" timestamp="1586263647405">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="634" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586263647405" />
     <state width="845" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586257016920" />
+    <state x="0" y="19" key="Maven.ArtifactSearchDialog" timestamp="1586262777745">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="19" key="Maven.ArtifactSearchDialog/0.0.1360.728@0.0.1360.728" timestamp="1586262777745" />
   </component>
 </project>

@@ -1,27 +1,29 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import javax.xml.crypto.Data;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Server {
     public static void main(String[] args) throws IOException {
-        ServerSocket server = new ServerSocket(4999);
+        ServerSocket server = new ServerSocket(6969);
         while(true) {
-            Socket client = server.accept();
+            Socket client = null;
+            try {
+                client = server.accept();
 
-            System.out.println("Client connected");
+                System.out.println("Client connected");
 
-            InputStreamReader in = new InputStreamReader(client.getInputStream());
-            BufferedReader bf = new BufferedReader(in);
+                DataInputStream in = new DataInputStream(client.getInputStream());
+                DataOutputStream out = new DataOutputStream(client.getOutputStream());
 
-            String str = bf.readLine();
-            System.out.println("Ce am primit de la client: " + str);
+                Thread newThread = new ClientHandler(client, in, out);
 
-            PrintWriter pr = new PrintWriter(client.getOutputStream());
-            pr.println("Hello ");
-            pr.flush();
+                newThread.start();
+            }
+            catch (Exception e) {
+                client.close();
+                e.printStackTrace();
+            };
         }
     }
 }
