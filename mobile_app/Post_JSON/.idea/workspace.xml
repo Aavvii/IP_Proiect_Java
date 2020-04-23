@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a51353b-e4db-422a-a68d-a71fcf093b55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZUVQIAOKYUXMYmYdBiYu8HSaN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Post_JSON" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageManipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageManipulator" />
+      <module name="Post_JSON" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostJSONWithHttpURLConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PostJSONWithHttpURLConnection" />
+      <module name="Post_JSON" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Post_JSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chillyfacts.com.Post_JSON" />
+      <module name="Post_JSON" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chillyfacts.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shanti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shanti" />
+      <module name="Post_JSON" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Shanti" />
+        <item itemvalue="Application.PostJSONWithHttpURLConnection" />
+        <item itemvalue="Application.Post_JSON" />
+        <item itemvalue="Application.ImageManipulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a51353b-e4db-422a-a68d-a71fcf093b55" name="Default Changelist" comment="" />
+      <created>1586942632912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586942632912</updated>
+      <workItem from="1587487055378" duration="8045000" />
+      <workItem from="1587495701848" duration="2054000" />
+      <workItem from="1587657443631" duration="1527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1182" height="310" key="GridCell.Tab.0.bottom" timestamp="1586944704981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1182" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.120.1360.728@0.0.1920.1040" timestamp="1586944704981" />
+    <state width="1182" height="310" key="GridCell.Tab.0.center" timestamp="1586944704981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1182" height="310" key="GridCell.Tab.0.center/0.0.1920.1040/1920.120.1360.728@0.0.1920.1040" timestamp="1586944704981" />
+    <state width="1182" height="310" key="GridCell.Tab.0.left" timestamp="1586944704980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1182" height="310" key="GridCell.Tab.0.left/0.0.1920.1040/1920.120.1360.728@0.0.1920.1040" timestamp="1586944704980" />
+    <state width="1182" height="310" key="GridCell.Tab.0.right" timestamp="1586944704981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1182" height="310" key="GridCell.Tab.0.right/0.0.1920.1040/1920.120.1360.728@0.0.1920.1040" timestamp="1586944704981" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1586943891536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.120.1360.728@0.0.1920.1040" timestamp="1586943891536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../../shanti.java</url>
+          <line>7</line>
+          <properties class="com.company.PostJson" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
